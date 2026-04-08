@@ -598,3 +598,29 @@ Mon Apr  6 21:57:00 EDT 2026: Run complete
 2026-04-08 00:39:38,044 INFO Retrying request to /v1/messages in 0.484362 seconds
 2026-04-08 00:39:38,563 INFO Retrying request to /v1/messages in 0.796246 seconds
 2026-04-08 00:39:39,394 ERROR Generation failed for 'best silicone baking mats': Connection error.
+2026-04-08 00:54:40,094 INFO === NicheFlow generation run started (Batch: 5) ===
+2026-04-08 00:54:40,095 INFO Keyword selected: best blender for smoothies under 50
+2026-04-08 00:54:40,095 INFO Generating article for: best blender for smoothies under 50
+2026-04-08 00:54:40,129 INFO Retrying request to /v1/messages in 0.447095 seconds
+2026-04-08 00:54:40,594 INFO Retrying request to /v1/messages in 0.887607 seconds
+2026-04-08 00:54:41,499 ERROR Generation failed for 'best blender for smoothies under 50': Connection error.
+2026-04-08 00:54:41,499 INFO Keyword selected: vitamix vs ninja blender
+2026-04-08 00:54:41,499 INFO Generating article for: vitamix vs ninja blender
+2026-04-08 00:54:41,515 INFO Retrying request to /v1/messages in 0.437973 seconds
+2026-04-08 00:54:41,970 INFO Retrying request to /v1/messages in 0.880357 seconds
+2026-04-08 00:54:42,868 ERROR Generation failed for 'vitamix vs ninja blender': Connection error.
+2026-04-08 00:54:42,869 INFO Keyword selected: best food processor for small kitchen
+2026-04-08 00:54:42,869 INFO Generating article for: best food processor for small kitchen
+2026-04-08 00:54:42,886 INFO Retrying request to /v1/messages in 0.457033 seconds
+2026-04-08 00:54:43,360 INFO Retrying request to /v1/messages in 0.967613 seconds
+2026-04-08 00:54:44,346 ERROR Generation failed for 'best food processor for small kitchen': Connection error.
+2026-04-08 00:54:44,346 INFO Keyword selected: best kitchen scale for baking
+2026-04-08 00:54:44,346 INFO Generating article for: best kitchen scale for baking
+2026-04-08 00:54:44,363 INFO Retrying request to /v1/messages in 0.455633 seconds
+2026-04-08 00:54:44,837 INFO Retrying request to /v1/messages in 0.999594 seconds
+2026-04-08 00:54:45,854 ERROR Generation failed for 'best kitchen scale for baking': Connection error.
+2026-04-08 00:54:45,854 INFO Keyword selected: best silicone baking mats
+2026-04-08 00:54:45,854 INFO Generating article for: best silicone baking mats
+2026-04-08 00:54:45,870 INFO Retrying request to /v1/messages in 0.385834 seconds
+2026-04-08 00:54:46,274 INFO Retrying request to /v1/messages in 0.990464 seconds
+2026-04-08 00:54:47,283 ERROR Generation failed for 'best silicone baking mats': Connection error.
