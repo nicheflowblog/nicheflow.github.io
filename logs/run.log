@@ -697,3 +697,24 @@ Mon Apr  6 21:57:00 EDT 2026: Run complete
 2026-04-08 13:54:50,505 INFO Generating article for: best silicone baking mats
 2026-04-08 13:55:09,471 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
 2026-04-08 13:55:09,476 INFO Article saved: deploy/posts/best-silicone-baking-mats.html
+2026-04-08 13:56:16,297 INFO === NicheFlow generation run started (Batch: 5) ===
+2026-04-08 13:56:16,298 INFO Keyword selected: best dutch oven under 100
+2026-04-08 13:56:16,298 INFO Generating article for: best dutch oven under 100
+2026-04-08 13:56:36,303 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-08 13:56:36,342 INFO Article saved: deploy/posts/best-dutch-oven-under-100.html
+2026-04-08 13:56:36,342 INFO Keyword selected: best stand mixer for home baking
+2026-04-08 13:56:36,342 INFO Generating article for: best stand mixer for home baking
+2026-04-08 13:56:57,813 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-08 13:56:57,821 INFO Article saved: deploy/posts/best-stand-mixer-for-home-baking.html
+2026-04-08 13:56:57,821 INFO Keyword selected: best toaster oven for toast and pizza
+2026-04-08 13:56:57,822 INFO Generating article for: best toaster oven for toast and pizza
+2026-04-08 13:57:21,079 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-08 13:57:21,086 INFO Article saved: deploy/posts/best-toaster-oven-for-toast-and-pizza.html
+2026-04-08 13:57:21,086 INFO Keyword selected: ninja foodi vs breville smart oven
+2026-04-08 13:57:21,086 INFO Generating article for: ninja foodi vs breville smart oven
+2026-04-08 13:57:43,997 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-08 13:57:44,002 INFO Article saved: deploy/posts/ninja-foodi-vs-breville-smart-oven.html
+2026-04-08 13:57:44,002 INFO Keyword selected: best convection toaster oven under 150
+2026-04-08 13:57:44,002 INFO Generating article for: best convection toaster oven under 150
+2026-04-08 13:58:06,527 INFO HTTP Request: POST https://api.anthropic.com/v1/messages "HTTP/1.1 200 OK"
+2026-04-08 13:58:06,534 INFO Article saved: deploy/posts/best-convection-toaster-oven-under-150.html
